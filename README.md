@@ -14,5 +14,5 @@ To compile the code [on windows] just copy the code from .cpp file and put it in
 
 GL HF!
 
-![obraz](https://user-images.githubusercontent.com/77057750/173925546-5ae3dd18-7cc9-4cfc-8116-071288bf4b27.png)
- 
+![obraz](https://user-images.githubusercontent.com/77057750/173925951-34181602-ac3e-4577-8cda-9476ecaf91d1.png)
+
