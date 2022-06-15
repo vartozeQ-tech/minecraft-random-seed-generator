@@ -51,7 +51,6 @@ void nick() {
 	//This part is only for displaying the nickname in the console
 }
 
-
 int main() {
 	seed();
 	nick();
